@@ -78,13 +78,39 @@ Building practical projects, exploring intelligent systems, and turning ideas in
 
 ## 🚀 Featured Projects
 
+
+<h3 align="center">🚀 Featured Project</h3>
+
 <div align="center">
 
 <a href="https://github.com/Aishwariyabennuri/HabitFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aishwariyabennuri&repo=HabitFlow&theme=tokyonight&hide_border=true" alt="HabitFlow repository" />
+  <img src="https://img.shields.io/badge/Project-HabitFlow-6C63FF?style=for-the-badge&logo=github" alt="HabitFlow" />
+</a>
+
+<h3>✅ HabitFlow — Habit Tracker</h3>
+
+<p>
+A colorful, spreadsheet-style habit tracker built with
+<strong>HTML, CSS, and JavaScript</strong>. Track daily habits,
+maintain streaks, visualize progress, and save data locally.
+</p>
+
+<p>
+📅 Monthly habit tracking · 🔥 Streak tracking · 📊 Progress charts
+<br/>
+🏆 Achievement badges · 🔍 Search and filters · 💾 JSON import/export
+</p>
+
+<strong>Tech Stack:</strong> HTML · CSS · JavaScript · localStorage · Chart.js
+
+<br/>
+
+<a href="https://github.com/Aishwariyabennuri/HabitFlow">
+  View Project →
 </a>
 
 </div>
+
 
 | Project | Description | Focus |
 |---|---|---|
