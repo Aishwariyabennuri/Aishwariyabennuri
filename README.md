@@ -1,44 +1,60 @@
-<!--
-  GitHub Profile README
-  Repository: Aishwariyabennuri/Aishwariyabennuri
-  All profile analytics use the username: aishwariyabennuri
--->
 
 <div align="center">
 
-# 👋 Hi, I'm Bennuri Aishwariya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Bennuri%20Aishwariya&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=15" width="100%" alt="Animated profile header"/>
 
-### Full Stack Developer | AI/ML Enthusiast
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=6AD3F7&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence+%26+ML;Building+Full-Stack+Projects;Solving+DSA+Problems+with+C%2B%2B;Learning%2C+Building%2C+Improving+Every+Day" alt="Typing animation"/>
+</a>
 
-Building practical projects, exploring intelligent systems, and turning ideas into useful applications.
+<br/>
 
-<p>
-  <a href="https://github.com/Aishwariyabennuri">
-    <img src="https://komarev.com/ghpvc/?username=aishwariyabennuri&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <a href="https://github.com/Aishwariyabennuri?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories" />
-  </a>
-</p>
-
-📍 Hyderabad, India · 🎓 B.Tech in AI & Machine Learning
-
-<a href="mailto:bennuriaishwarya@gmail.com">Email</a> •
-<a href="https://linkedin.com/in/aishwariya-bennuri-85a625372">LinkedIn</a> •
-<a href="https://www.leetcode.com/aishwariya_bennuri_23">LeetCode</a> •
-<a href="https://kaggle.com/aishwariyabennuri">Kaggle</a>
+<a href="https://github.com/Aishwariyabennuri">
+  <img src="https://komarev.com/ghpvc/?username=Aishwariyabennuri&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+</a>
+<a href="https://github.com/Aishwariyabennuri?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+</a>
 
 </div>
 
 ---
 
-## 💫 About Me
+## 👩‍💻 About Me
 
-- 🎓 Third-year B.Tech student specializing in Artificial Intelligence and Machine Learning.
-- 💻 Interested in full-stack development, machine learning, and building user-focused applications.
-- 🧠 Practicing problem-solving and strengthening data structures and algorithms.
-- 🛠️ Enjoy experimenting with technologies and learning by building projects.
-- 🎯 Working toward opportunities in full-stack development and AI/ML.
+```python
+class Aishwariya:
+    def __init__(self):
+        self.name = "Bennuri Aishwariya"
+        self.education = "B.Tech AI & ML @ CBIT Hyderabad"
+        self.languages = ["C++", "Python", "Java", "JavaScript"]
+        self.interests = [
+            "Artificial Intelligence & Machine Learning",
+            "Full-Stack Web Development",
+            "Data Structures & Algorithms"
+        ]
+        self.currently_learning = [
+            "DSA with C++",
+            "Web Development",
+            "Practical AI/ML"
+        ]
+        self.open_to = [
+            "Internships",
+            "Hackathons",
+            "Project Collaborations"
+        ]
+
+    def motto(self):
+        return "Learn, build, improve, repeat! 🚀"
+
+me = Aishwariya()
+```
+
+- 🎓 Pursuing B.Tech in Artificial Intelligence and Machine Learning at CBIT, Hyderabad.
+- 💡 Interested in building practical applications that solve real-world problems.
+- 🛠️ Enjoy developing web projects and exploring AI/ML concepts.
+- 🌱 Continuously improving my problem-solving and development skills.
+- 🤝 Open to learning opportunities, hackathons, and collaborations.
 
 ---
 
@@ -47,79 +63,127 @@ Building practical projects, exploring intelligent systems, and turning ideas in
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js&theme=dark" alt="C++, C, Java, Python, JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### Frontend Development
+### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="HTML, CSS, JavaScript, React, Vite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-### Backend & Databases
+### AI, ML & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,sqlite&theme=dark" alt="Node.js, Express, Flask, MySQL, MongoDB, SQLite" />
-</p>
-
-### AI / ML & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch&theme=dark" alt="Python, TensorFlow, scikit-learn, PyTorch" />
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code, Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Focus |
-|---|---|---|
-| 🎨 **CartoonVerse** | A creative, animated web experience featuring character sections and interactive visual effects. | HTML, CSS, Animations |
-| 💳 **Smart Loan Approval Environment** | A project exploring smart loan approval workflows and decision-making environments. | AI/ML, Python |
-| ✅ **HabitFlow** | A habit-tracking project focused on organizing routines and tracking progress. | Web Development |
-| 🖼️ **Duplicate Image Finder** | A utility project for identifying duplicate images in a collection. | Python / Image Processing |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✅ HabitFlow</h3>
+      <p>A habit-tracking application to organize daily routines and monitor personal progress.</p>
+      <p><strong>Features:</strong></p>
+      <ul>
+        <li>Daily habit tracking and streaks</li>
+        <li>Progress charts and monthly tracking</li>
+        <li>Achievements and data import/export</li>
+      </ul>
+      <p><strong>Tech:</strong> HTML · CSS · JavaScript · Chart.js</p>
+      <a href="https://github.com/Aishwariyabennuri/HabitFlow">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 GPA Calculator</h3>
+      <p>A student-focused project for calculating academic performance and making grade tracking easier.</p>
+      <p><strong>Focus:</strong></p>
+      <ul>
+        <li>Academic calculations</li>
+        <li>User-friendly interface</li>
+        <li>Practical web development</li>
+      </ul>
+      <p><strong>Tech:</strong> Web Development</p>
+      <a href="https://github.com/Aishwariyabennuri?tab=repositories">Explore Projects →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖼️ Image Compressor</h3>
+      <p>A web project focused on reducing image file sizes through a simple interface.</p>
+      <p><strong>Focus:</strong></p>
+      <ul>
+        <li>Image processing workflow</li>
+        <li>Interactive user interface</li>
+        <li>Frontend development</li>
+      </ul>
+      <p><strong>Tech:</strong> JavaScript · Vite</p>
+      <a href="https://github.com/Aishwariyabennuri?tab=repositories">Explore Projects →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔎 Duplicate Image Finder</h3>
+      <p>A utility project exploring ways to identify duplicate images in a collection.</p>
+      <p><strong>Focus:</strong></p>
+      <ul>
+        <li>Duplicate detection</li>
+        <li>File organization</li>
+        <li>Problem-solving with code</li>
+      </ul>
+      <p><strong>Tech:</strong> Python · Image Processing</p>
+      <a href="https://github.com/Aishwariyabennuri?tab=repositories">Explore Projects →</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Aishwariyabennuri?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" />
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
   </a>
 </p>
 
 ---
 
+## 🏆 Achievements & Certifications
+
+- 📜 **NPTEL – Programming in Java:** Elite certification, 99%.
+- ☁️ **Salesforce Agentforce Specialist:** Certification.
+- 💻 **Hackathons:** Participated in student hackathons and collaborative project development.
+- 🌱 **Continuous Learning:** Exploring AI/ML, web development, and problem-solving through hands-on projects.
 
 ---
 
 ## 📊 GitHub Analytics
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>📈 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Aishwariyabennuri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Statistics"/>
-    </td>
-    <td width="50%" align="center">
-      <h3>💻 Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwariyabennuri&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%" alt="Top Languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🔥 Contribution Streak</h3>
-      <img src="https://streak-stats.demolab.com?user=Aishwariyabennuri&theme=github-dark-blue&hide_border=true" width="100%" alt="Contribution Streak"/>
-    </td>
-    <td width="50%" align="center">
-      <h3>📋 Profile Summary</h3>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aishwariyabennuri&theme=github_dark" width="100%" alt="Profile Summary Statistics"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aishwariyabennuri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="180" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwariyabennuri&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="Most used programming languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Aishwariyabennuri&theme=github-dark-blue&hide_border=true" width="70%" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
@@ -127,40 +191,50 @@ Building practical projects, exploring intelligent systems, and turning ideas in
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishwariyabennuri&theme=github_dark" width="100%" alt="GitHub Contribution Activity"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishwariyabennuri&theme=github_dark" width="100%" alt="GitHub contribution activity graph"/>
 
-<br/>
+</div>
+
+<div align="center">
 
 <a href="https://github.com/Aishwariyabennuri">
-  View My GitHub Contribution Calendar →
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aishwariyabennuri&theme=github_dark" width="49%" alt="GitHub profile summary statistics"/>
+</a>
+<a href="https://github.com/Aishwariyabennuri">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aishwariyabennuri&theme=github_dark&utcOffset=5.5" width="49%" alt="GitHub productive time"/>
 </a>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
+<a href="https://github.com/Aishwariyabennuri">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 <a href="https://linkedin.com/in/aishwariya-bennuri-85a625372">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:bennuriaishwarya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.leetcode.com/aishwariya_bennuri_23">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://kaggle.com/aishwariyabennuri">
-  <img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-⭐ If you find one of my projects interesting, feel free to explore the repository and share your feedback!
+💬 Interested in projects, learning, and collaboration?
 
-**Thanks for visiting my profile!** 💜
+**Let's connect and build something meaningful!**
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%" alt="Animated footer"/>
+
+**Thanks for visiting my profile! 💜**
+
+*“Small steps every day lead to big results.”* ✨
+
+</div>
