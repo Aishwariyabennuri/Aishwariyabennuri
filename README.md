@@ -78,40 +78,6 @@ Building practical projects, exploring intelligent systems, and turning ideas in
 
 ## 🚀 Featured Projects
 
-
-<h3 align="center">🚀 Featured Project</h3>
-
-<div align="center">
-
-<a href="https://github.com/Aishwariyabennuri/HabitFlow">
-  <img src="https://img.shields.io/badge/Project-HabitFlow-6C63FF?style=for-the-badge&logo=github" alt="HabitFlow" />
-</a>
-
-<h3>✅ HabitFlow — Habit Tracker</h3>
-
-<p>
-A colorful, spreadsheet-style habit tracker built with
-<strong>HTML, CSS, and JavaScript</strong>. Track daily habits,
-maintain streaks, visualize progress, and save data locally.
-</p>
-
-<p>
-📅 Monthly habit tracking · 🔥 Streak tracking · 📊 Progress charts
-<br/>
-🏆 Achievement badges · 🔍 Search and filters · 💾 JSON import/export
-</p>
-
-<strong>Tech Stack:</strong> HTML · CSS · JavaScript · localStorage · Chart.js
-
-<br/>
-
-<a href="https://github.com/Aishwariyabennuri/HabitFlow">
-  View Project →
-</a>
-
-</div>
-
-
 | Project | Description | Focus |
 |---|---|---|
 | 🎨 **CartoonVerse** | A creative, animated web experience featuring character sections and interactive visual effects. | HTML, CSS, Animations |
@@ -144,13 +110,25 @@ maintain streaks, visualize progress, and save data locally.
 
 ## 📈 Contribution Activity
 
+
+<h2 align="center">📈 Contribution Activity</h2>
+
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aishwariyabennuri&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution and commit activity graph" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwariyabennuri&theme=github-compact&hide_border=true&area=true"
+  alt="GitHub contribution activity graph"
+  width="100%"
+/>
+
+<br/>
+
+<a href="https://github.com/Aishwariyabennuri">
+  View Full Contribution Calendar →
+</a>
 
 </div>
 
----
 
 ## 🏆 GitHub Trophies
 
