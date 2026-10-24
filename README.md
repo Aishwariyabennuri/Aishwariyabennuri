@@ -190,42 +190,42 @@ Interested in hackathons, internships, and collaborating with people who enjoy t
 
 ---
 
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aishwariyabennuri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="180" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwariyabennuri&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="Most used programming languages"/>
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Aishwariyabennuri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="100%" alt="GitHub statistics"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwariyabennuri&layout=compact&langs_count=6&theme=github_dark&hide_border=true" width="100%" alt="Most used languages"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Aishwariyabennuri&theme=github-dark-blue&hide_border=true" width="70%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Aishwariyabennuri&theme=github-dark-blue&hide_border=true" width="75%" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 📅 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishwariyabennuri&theme=github_dark" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishwariyabennuri&theme=github_dark" width="100%" alt="Contribution activity"/>
 
 </div>
 
-<div align="center">
+<!-- ================== END GITHUB ANALYTICS ================== -->
 
-<a href="https://github.com/Aishwariyabennuri">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aishwariyabennuri&theme=github_dark" width="49%" alt="GitHub profile summary statistics"/>
-</a>
-<a href="https://github.com/Aishwariyabennuri">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aishwariyabennuri&theme=github_dark&utcOffset=5.5" width="49%" alt="GitHub productive time"/>
-</a>
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
