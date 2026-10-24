@@ -110,22 +110,13 @@ Building practical projects, exploring intelligent systems, and turning ideas in
 
 ## 📈 Contribution Activity
 
-
-<h2 align="center">📈 Contribution Activity</h2>
-
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwariyabennuri&theme=github-compact&hide_border=true&area=true"
-  alt="GitHub contribution activity graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwariyabennuri&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=bc8cff&area=true&hide_border=true"
   width="100%"
+  alt="GitHub Contribution Activity"
 />
-
-<br/>
-
-<a href="https://github.com/Aishwariyabennuri">
-  View Full Contribution Calendar →
-</a>
 
 </div>
 
