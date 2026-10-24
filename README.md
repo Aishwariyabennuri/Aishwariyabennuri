@@ -190,25 +190,22 @@ Interested in hackathons, internships, and collaborating with people who enjoy t
 
 ---
 
-
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aishwariyabennuri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="100%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aishwariyabennuri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&card_width=450" width="100%" height="195" alt="GitHub statistics"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwariyabennuri&layout=compact&langs_count=6&theme=github_dark&hide_border=true" width="100%" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwariyabennuri&layout=compact&langs_count=6&theme=github_dark&hide_border=true&card_width=450" width="100%" height="195" alt="Top languages"/>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://streak-stats.demolab.com?user=Aishwariyabennuri&theme=github-dark-blue&hide_border=true" width="70%" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Aishwariyabennuri&theme=github-dark-blue&hide_border=true" width="100%" alt="Contribution streak"/>
 </td>
 </tr>
 </table>
@@ -216,6 +213,15 @@ Interested in hackathons, internships, and collaborating with people who enjoy t
 </div>
 
 ---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishwariyabennuri&theme=github_dark" width="100%" alt="Contribution activity"/>
+
+</div>
+
 
 ## 📈 Contribution Activity
 
