@@ -20,35 +20,86 @@
 
 ---
 
-## 👩‍💻 About Me
 
-```python
-class Aishwariya:
-    def __init__(self):
-        self.name = "Bennuri Aishwariya"
-        self.education = "B.Tech AI & ML @ CBIT Hyderabad"
-        self.languages = ["C++", "Python", "Java", "JavaScript"]
-        self.interests = [
-            "Artificial Intelligence & Machine Learning",
-            "Full-Stack Web Development",
-            "Data Structures & Algorithms"
-        ]
-        self.currently_learning = [
-            "DSA with C++",
-            "Web Development",
-            "Practical AI/ML"
-        ]
-        self.open_to = [
-            "Internships",
-            "Hackathons",
-            "Project Collaborations"
-        ]
+## ✨ Beyond the Code
 
-    def motto(self):
-        return "Learn, build, improve, repeat! 🚀"
+<div align="center">
 
-me = Aishwariya()
-```
+### 👋 Hey, I'm Bennuri Aishwariya!
+
+**🎓 B.Tech AI & ML Student at CBIT, Hyderabad**
+
+*Curious about technology. Passionate about building. Always becoming better.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🪄 My Tech Universe
+
+💻 **Languages I Work With**
+
+C++ · Python · Java · JavaScript
+
+🤖 **What Fascinates Me**
+
+- Artificial Intelligence & Machine Learning
+- Full-Stack Web Development
+- Data Structures & Algorithms
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Currently Leveling Up
+
+🧩 Strengthening my DSA skills with C++
+
+🌐 Exploring and building web applications
+
+🧠 Turning AI/ML concepts into practical projects
+
+🛠️ Improving through hands-on development and experimentation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Where I'm Headed
+
+🚀 Build useful, real-world projects
+
+📈 Grow into a skilled and versatile developer
+
+💡 Turn creative ideas into working solutions
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Let's Build Together
+
+💼 Internship opportunities
+
+🏆 Hackathons and tech events
+
+🌟 Open-source and project collaborations
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💜 A Little Reminder I Live By
+
+**Learn something. Build something. Get better at something.**
+
+*Because every expert was once a beginner who kept going.* ✨
+
+</div>
+
 
 - 🎓 Pursuing B.Tech in Artificial Intelligence and Machine Learning at CBIT, Hyderabad.
 - 💡 Interested in building practical applications that solve real-world problems.
