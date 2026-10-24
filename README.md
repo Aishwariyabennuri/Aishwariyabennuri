@@ -139,16 +139,6 @@ Building practical projects, exploring intelligent systems, and turning ideas in
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aishwariyabennuri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
