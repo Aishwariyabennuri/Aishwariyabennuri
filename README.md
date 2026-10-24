@@ -222,24 +222,6 @@ Interested in hackathons, internships, and collaborating with people who enjoy t
 
 </div>
 
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishwariyabennuri&theme=github_dark" width="100%" alt="Contribution activity"/>
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishwariyabennuri&theme=github_dark" width="100%" alt="Contribution activity"/>
-
-</div>
-
-
 ## 🌐 Connect With Me
 
 <div align="center">
