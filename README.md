@@ -93,39 +93,57 @@ Building practical projects, exploring intelligent systems, and turning ideas in
 
 ---
 
+
+---
+
 ## 📊 GitHub Analytics
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>📈 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Aishwariyabennuri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Statistics"/>
+    </td>
+    <td width="50%" align="center">
+      <h3>💻 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwariyabennuri&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔥 Contribution Streak</h3>
+      <img src="https://streak-stats.demolab.com?user=Aishwariyabennuri&theme=github-dark-blue&hide_border=true" width="100%" alt="Contribution Streak"/>
+    </td>
+    <td width="50%" align="center">
+      <h3>📋 Profile Summary</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aishwariyabennuri&theme=github_dark" width="100%" alt="Profile Summary Statistics"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📅 Contribution Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aishwariyabennuri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwariyabennuri&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishwariyabennuri&theme=github_dark" width="100%" alt="GitHub Contribution Activity"/>
 
 <br/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Aishwariyabennuri&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishwariyabennuri&theme=github_dark" alt="GitHub Contribution Summary" />
+<a href="https://github.com/Aishwariyabennuri">
+  View My GitHub Contribution Calendar →
+</a>
 
 </div>
 
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwariyabennuri&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=bc8cff&area=true&hide_border=true"
-  width="100%"
-  alt="GitHub Contribution Activity"
-/>
-
-</div>
-
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=aishwariyabennuri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aishwariyabennuri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -136,16 +154,16 @@ Building practical projects, exploring intelligent systems, and turning ideas in
 <div align="center">
 
 <a href="https://linkedin.com/in/aishwariya-bennuri-85a625372">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:bennuriaishwarya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.leetcode.com/aishwariya_bennuri_23">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 <a href="https://kaggle.com/aishwariyabennuri">
-  <img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
 
 <br/><br/>
@@ -155,3 +173,4 @@ Building practical projects, exploring intelligent systems, and turning ideas in
 **Thanks for visiting my profile!** 💜
 
 </div>
+
