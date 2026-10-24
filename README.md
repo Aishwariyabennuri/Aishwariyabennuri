@@ -95,18 +95,21 @@ Building practical projects, exploring intelligent systems, and turning ideas in
 
 ## 📊 GitHub Analytics
 
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aishwariyabennuri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwariyabennuri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aishwariyabennuri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwariyabennuri&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=aishwariyabennuri&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Aishwariyabennuri&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishwariyabennuri&theme=github_dark" alt="GitHub Contribution Summary" />
 
 </div>
 
----
 
 ## 📈 Contribution Activity
 
